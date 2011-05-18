@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns/graphml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns/graphml http://www.yworks.com/xml/schema/graphml/1.0/ygraphml.xsd">
+  <key for="node" id="d0" yfiles.type="nodegraphics"/>
+  <key attr.name="description" attr.type="string" for="node" id="d1"/>
+  <key for="edge" id="d2" yfiles.type="edgegraphics"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d3"/>
+  <key for="graphml" id="d4" yfiles.type="resources"/>
+  <graph edgedefault="directed" id="G" parse.edges="5" parse.nodes="40" parse.order="free">
+    <node id="n0">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="308.0" width="219.00000000000006" x="477.64687500000014" y="2.333333333333343"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="4.0" x="107.50000000000006" y="152.0"/>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n1">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="322.6666666666667" width="330.0" x="34.64687500000008" y="-0.6666666666666572"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="4.0" x="163.0" y="159.33333333333334"/>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n2">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="118.0" width="154.0" x="62.64687500000008" y="393.0"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="4.0" x="75.0" y="57.0"/>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n3" yfiles.foldertype="group">
+      <data key="d0">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="113.0" width="145.0" x="66.64687500000008" y="397.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="145.0" x="0.0" y="0.0">Comon hardware</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="36.64687500000008" y="356.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">34</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <data key="d1"/>
+      <graph edgedefault="directed" id="n3:"/>
+    </node>
+    <node id="n4">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="147.0" width="178.00000000000006" x="354.64687500000014" y="373.00000000000006"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="4.0" x="87.0" y="71.5"/>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n5" yfiles.foldertype="group">
+      <data key="d0">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="138.0" width="166.0" x="359.0" y="377.00000000000006"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="166.0" x="0.0" y="0.0">Embedded hardware</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="582.0" y="427.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">13</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <data key="d1"/>
+      <graph edgedefault="directed" id="n5:"/>
+    </node>
+    <node id="n6" yfiles.foldertype="group">
+      <data key="d0">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="300.0" width="211.0" x="482.0" y="7.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="211.0" x="0.0" y="0.0">POSIX</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="443.0" y="435.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">12</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <data key="d1"/>
+      <graph edgedefault="directed" id="n6:"/>
+    </node>
+    <node id="n7" yfiles.foldertype="group">
+      <data key="d0">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="316.0" width="322.0" x="37.0" y="2.6666666666664867"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="322.0" x="0.0" y="0.0">MS Windows family</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="90.0" y="158.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">10</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <data key="d1"/>
+      <graph edgedefault="directed" id="n7:"/>
+    </node>
+    <node id="n8" yfiles.foldertype="group">
+      <data key="d0">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="107.0" width="150.0" x="498.0" y="44.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="150.0" x="0.0" y="0.0">Fully compatible</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="640.0" y="237.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">9</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <data key="d1"/>
+      <graph edgedefault="directed" id="n8:"/>
+    </node>
+    <node id="n9" yfiles.foldertype="group">
+      <data key="d0">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="106.0" width="150.0" x="499.0" y="164.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="150.0" x="0.0" y="0.0">Partly compatible</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="609.0" y="176.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">8</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <data key="d1"/>
+      <graph edgedefault="directed" id="n9:"/>
+    </node>
+    <node id="n10" yfiles.foldertype="group">
+      <data key="d0">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="125.99999999999997" width="137.0" x="48.0" y="187.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="137.0" x="0.0" y="0.0">Vista based</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="495.0" y="223.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">7</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <data key="d1"/>
+      <graph edgedefault="directed" id="n10:"/>
+    </node>
+    <node id="n11" yfiles.foldertype="group">
+      <data key="d0">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="132.0" width="149.0" x="205.0" y="38.6666666666666"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="149.0" x="0.0" y="0.0">Windows NT</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="249.0" y="187.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">5</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <data key="d1"/>
+      <graph edgedefault="directed" id="n11:"/>
+    </node>
+    <node id="n12" yfiles.foldertype="group">
+      <data key="d0">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="134.0" width="125.0" x="48.0" y="40.6666666666666"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="125.0" x="0.0" y="0.0">DOS based</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="221.0" y="138.0"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">4</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <data key="d1"/>
+      <graph edgedefault="directed" id="n12:"/>
+    </node>
+    <node id="n13">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="45.0" x="62.5" y="72.66666666666663"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="30.0" x="7.5" y="5.6494140625">DOS</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n14">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="94.0" x="61.5" y="108.66666666666663"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="72.0" x="11.0" y="5.6494140625">Windows 95</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n15">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="102.0" x="60.5" y="142.66666666666666"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="72.0" x="15.0" y="5.6494140625">Windows 98</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n16">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="77.0" x="219.5" y="70.66666666666663"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="74.0" x="1.5" y="5.6494140625">Windows NT</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n17">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="93.0" x="217.5" y="103.66666666666663"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="73.0" x="10.0" y="5.6494140625">Windows XP</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n18">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="129.0" x="214.5" y="135.66666666666666"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="111.0" x="9.0" y="5.6494140625">Windows Millenium</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n19">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="126.0" x="54.5" y="269.66666666666663"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="85.0" x="20.5" y="5.6494140625">Windows Vista</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n20">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="84.0" x="59.5" y="226.66666666666666"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="65.0" x="9.5" y="5.6494140625">Windows 7</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n21">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="45.0" x="593.1468750000001" y="72.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="28.0" x="8.5" y="5.6494140625">Unix</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n22">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="59.0" x="585.1468750000001" y="110.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="56.0" x="1.5" y="5.6494140625">Mac OS X</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n23">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="66.0" x="510.14687500000014" y="110.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="60.0" x="3.0" y="5.6494140625">IPhoneOS</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n24">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="45.0" x="516.1468750000001" y="73.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="43.0" x="1.0" y="5.6494140625">Solaris</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n25">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="71.0" x="573.1468750000001" y="193.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="57.0" x="7.0" y="5.6494140625">Free BSD</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n26">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="77.00000000000006" x="565.1468750000001" y="230.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="61.0" x="8.000000000000057" y="5.6494140625">GnU Linux</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n27">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="45.0" x="435.14687500000014" y="451.00000000000006"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="24.0" x="10.5" y="5.6494140625">PIC</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n28">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="45.0" x="434.14687500000014" y="413.00000000000006"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="46.0" x="-0.5" y="5.6494140625">Ardunio</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n29">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="45.0" x="376.14687500000014" y="453.00000000000006"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="27.0" x="9.0" y="5.6494140625">AVR</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n30">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="45.0" x="379.14687500000014" y="415.00000000000006"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="29.0" x="8.0" y="5.6494140625">ARM</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n31">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="92.0" x="598.1468750000001" y="353.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="81.0" x="5.5" y="5.6494140625">Real Time OS</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n32">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="125.0" width="149.0" x="202.64687500000008" y="182.0"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="4.0" x="72.5" y="60.5"/>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n33" yfiles.foldertype="group">
+      <data key="d0">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="118.0" width="144.0" x="205.0" y="186.66666666666663"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="144.0" x="0.0" y="0.0">Embedded</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="262.0" y="436.66666666666663"/>
+              <y:Fill color="#CAECFF84" transparent="false"/>
+              <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">6</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" left="15" right="15" top="15"/>
+              <y:BorderInsets bottom="0" left="0" right="0" top="0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <data key="d1"/>
+      <graph edgedefault="directed" id="n33:"/>
+    </node>
+    <node id="n34">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="45.0" x="214.14687500000008" y="219.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="42.0" x="1.5" y="5.6494140625">WinCE</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n35">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="102.0" x="208.14687500000008" y="257.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="94.0" x="4.0" y="5.6494140625">Windows Mobile</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n36">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="45.0" x="81.14687500000008" y="430.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="23.0" x="11.0" y="5.6494140625">x86</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n37">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="45.0" x="151.14687500000008" y="431.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="23.0" x="11.0" y="5.6494140625">x64</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n38">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="71.0" x="77.14687500000008" y="465.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="58.0" x="6.5" y="5.6494140625">Intel Atom</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <node id="n39">
+      <data key="d0">
+        <y:GenericNode configuration="BevelNode2">
+          <y:Geometry height="30.0" width="45.0" x="155.14687500000008" y="464.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="43.0" x="1.0" y="5.6494140625">AMD64</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+      <data key="d1"/>
+    </node>
+    <edge id="e0" source="n31" target="n4">
+      <data key="d2">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+      <data key="d3"/>
+    </edge>
+    <edge id="e1" source="n26" target="n4">
+      <data key="d2">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+      <data key="d3"/>
+    </edge>
+    <edge id="e2" source="n32" target="n30">
+      <data key="d2">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+      <data key="d3"/>
+    </edge>
+    <edge id="e3" source="n1" target="n3">
+      <data key="d2">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+      <data key="d3"/>
+    </edge>
+    <edge id="e4" source="n0" target="n2">
+      <data key="d2">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+      <data key="d3"/>
+    </edge>
+  </graph>
+  <data key="d4">
+    <y:Resources/>
+  </data>
+</graphml>
